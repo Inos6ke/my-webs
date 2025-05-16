@@ -1,0 +1,24 @@
+[
+    {
+        "date": "2025-05-08",
+        "initial": 500,
+        "amount": 500,
+        "coefficient": 31.73,
+        "type": "express",
+        "sport": "cybersport",
+        "is_freebet": false,
+        "result": "pending",
+        "note": ""
+    },
+    {
+        "date": "2025-05-08",
+        "initial": 500,
+        "amount": 391,
+        "coefficient": 1,
+        "type": "single",
+        "sport": "cybersport",
+        "is_freebet": true,
+        "result": "pending",
+        "note": ""
+    }
+]
